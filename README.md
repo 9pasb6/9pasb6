@@ -1,6 +1,10 @@
 ### Ey, what's going on people 👋😒
 
-I am a beginner in the world of computing with a lot of desire to learn
+I am a beginner in the world of computing with a lot of desire to learn 
+
+
+-🧑‍💻 I’m  a computer science student at the University of Quindio
+
 
 ![gatoPc](https://user-images.githubusercontent.com/100176897/156948074-7cd44047-ec93-45f4-b8fd-7eeffaefd68c.gif)
 
