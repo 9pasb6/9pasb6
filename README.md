@@ -1,6 +1,6 @@
 ### Ey, what's going on people 👋😒
 
-I am a beginner in the world of computing with a lot of desire to learn 
+
 
 
 -🧑‍💻 I’m  a computer science student
