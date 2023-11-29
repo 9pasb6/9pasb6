@@ -1,4 +1,4 @@
-### Ey, what's going on people 👋😒
+### Ey, what's going on people 👋
 
 
 
@@ -6,7 +6,7 @@
 -🧑‍💻 I’m  a computer science student
 
 
-![gatoPc](https://user-images.githubusercontent.com/100176897/156948074-7cd44047-ec93-45f4-b8fd-7eeffaefd68c.gif)
+
 
 <!--
 **9pasb6/9pasb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
