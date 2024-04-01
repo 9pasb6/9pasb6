@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pablo Bernal</h1>
+
+
+
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" width="30" height="30" /> I'm Pablo Bernal</h1>
+
 
 <h2 align="left">About me: </h2>
 <h3 align="center">I am a final-year student pursuing a degree in Systems and Computing Engineering, with a profound passion for software development. My experience spans a wide range of technologies, including Java, Spring Boot, Hibernate (ORM), Node.js, Express, MongoDB, Mongoose (ODM), Oracle SQL, MySQL, JavaScript, HTML, CSS, and React.js (version 16.8). I have advanced knowledge in Backend development, management of both relational and non-relational databases, MVC architecture, and design patterns. Specializing in React, I excel at consuming API services, complementing my technical profile. I have worked in environments utilizing the Agile SCRUM methodology, handling tools such as Jira, Git, and GitHub for team coordination, versioning, and task allocation. My commitment to continuous learning motivates me to always be up-to-date with the latest technologies, eager to learn and share knowledge with my team and community.</h3>
