@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Bernal</h1>
-<h3 align="center">I am a final-year student pursuing a degree in Systems and Computing Engineering, with a profound passion for software development. My experience spans a wide range of technologies, including Java, Spring Boot, Hibernate (ORM), Node.js, Express, MongoDB, Mongoose (ODM), Oracle SQL, MySQL, JavaScript, HTML, CSS, and React.js (version 16.8). I have advanced knowledge in Backend development, management of both relational and non-relational databases, MVC architecture, and design patterns. Specializing in React, I excel at consuming API services, complementing my technical profile. I have worked in environments utilizing the Agile SCRUM methodology, handling tools such as Jira, Git, and GitHub for team coordination, versioning, and task allocation. My commitment to continuous learning motivates me to always be up-to-date with the latest technologies, eager to learn and share knowledge with my team and community.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=9pasb6&label=Profile%20views&color=0e75b6&style=flat" alt="9pasb6" /> </p>
+<h3 align="left">About me: </h3>
+<h4 align="center">I am a final-year student pursuing a degree in Systems and Computing Engineering, with a profound passion for software development. My experience spans a wide range of technologies, including Java, Spring Boot, Hibernate (ORM), Node.js, Express, MongoDB, Mongoose (ODM), Oracle SQL, MySQL, JavaScript, HTML, CSS, and React.js (version 16.8). I have advanced knowledge in Backend development, management of both relational and non-relational databases, MVC architecture, and design patterns. Specializing in React, I excel at consuming API services, complementing my technical profile. I have worked in environments utilizing the Agile SCRUM methodology, handling tools such as Jira, Git, and GitHub for team coordination, versioning, and task allocation. My commitment to continuous learning motivates me to always be up-to-date with the latest technologies, eager to learn and share knowledge with my team and community.</h4>
+
+----
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
