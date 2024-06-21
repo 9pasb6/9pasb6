@@ -41,13 +41,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td style="border:none; vertical-align: top;"><h3>Mobile:</h3></td>
     <td style="border:none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td style="border:none; vertical-align: top;"><h3>Tools:</h3></td>
     <td style="border:none;">
